@@ -1,2 +1,1 @@
 Move: Thunderbolt
-Move: FartCannon
